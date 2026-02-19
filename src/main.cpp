@@ -6,7 +6,7 @@
  * When an object is detected (LOW signal), the LED turns ON
  * and a message is printed to the Serial Monitor.
  * When no object is detected, the LED turns OFF.
- *
+ * 
  * @author Khushi Singh
  * @date 19 Feb 2026
  */
